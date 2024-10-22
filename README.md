@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![설명사진](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=백엔드%20개발자%20입니다.&fontSize=47)
-
 <!--
 **MisaSohee/MisaSohee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
