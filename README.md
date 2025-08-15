@@ -35,8 +35,7 @@
 
 
 ## 📫 연락처
-- **Email**: your.email@gmail.com
-- **Blog**: [기술 블로그](your-blog-link)
+- **Email**: sohee5951.email@gmail.com
 
 ---
 ⭐️ 지속적으로 학습하며 성장하는 개발자입니다
